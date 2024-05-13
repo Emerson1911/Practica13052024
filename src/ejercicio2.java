@@ -1,5 +1,9 @@
 public class ejercicio2 {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        
+       
+        int[] numeros = {-3,4,-5,6,-8,9};
+
+        
     }
 }

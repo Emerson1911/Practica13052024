@@ -1,6 +1,12 @@
+import java.util.Scanner;
+
 public class ejercicio1 {
 
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+       Scanner teclado = new Scanner(System.in);
+       short num ;
+       short par = 0;
+       short impar = 0;
+
     }
 }
